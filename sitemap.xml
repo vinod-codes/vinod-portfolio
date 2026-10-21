@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://vinuify.tech/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>1.0</priority>
-  </url>
+  <url><loc>https://vinuify.tech/</loc><lastmod>2026-10-21</lastmod></url>
+  <url><loc>https://vinuify.tech/services/</loc><lastmod>2026-10-21</lastmod></url>
+  <url><loc>https://vinuify.tech/services/website-development/</loc><lastmod>2026-10-21</lastmod></url>
+  <url><loc>https://vinuify.tech/services/meta-ads/</loc><lastmod>2026-10-21</lastmod></url>
+  <url><loc>https://vinuify.tech/services/google-ads/</loc><lastmod>2026-10-21</lastmod></url>
+  <url><loc>https://vinuify.tech/work/</loc><lastmod>2026-10-21</lastmod></url>
+  <url><loc>https://vinuify.tech/work/midwatch-website/</loc><lastmod>2026-10-21</lastmod></url>
+  <url><loc>https://vinuify.tech/notes/</loc><lastmod>2026-10-14</lastmod></url>
+  <url><loc>https://vinuify.tech/notes/meta-ads-mistakes/</loc><lastmod>2026-10-14</lastmod></url>
+  <url><loc>https://vinuify.tech/notes/click-to-whatsapp-ads/</loc><lastmod>2026-10-06</lastmod></url>
+  <url><loc>https://vinuify.tech/notes/core-web-vitals/</loc><lastmod>2026-09-29</lastmod></url>
+  <url><loc>https://vinuify.tech/notes/wasted-google-ads-spend/</loc><lastmod>2026-09-15</lastmod></url>
+  <url><loc>https://vinuify.tech/notes/utm-links/</loc><lastmod>2026-09-08</lastmod></url>
+  <url><loc>https://vinuify.tech/about/</loc><lastmod>2026-10-21</lastmod></url>
+  <url><loc>https://vinuify.tech/free-review/</loc><lastmod>2026-10-21</lastmod></url>
+  <url><loc>https://vinuify.tech/privacy/</loc><lastmod>2026-10-21</lastmod></url>
+  <url><loc>https://vinuify.tech/terms/</loc><lastmod>2026-10-21</lastmod></url>
 </urlset>

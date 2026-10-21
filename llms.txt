@@ -1,0 +1,26 @@
+# Vinod G.
+
+> Performance marketer in Bengaluru. I build fast websites and run Meta Ads and Google Ads for businesses that need enquiries, with every lead tracked to its source.
+
+Vinod G. is a performance marketer and web developer based in Bengaluru, India, working with small businesses across India. Services: website development, Meta Ads (Facebook and Instagram), Google Ads and conversion tracking. Pricing is a fixed quote after a free 15-minute review.
+
+## Services
+- [Website development](https://vinuify.tech/services/website-development/): Fast, hand-built websites with one clear action per page, so the people your ads send actually get in touch.
+- [Meta Ads management](https://vinuify.tech/services/meta-ads/): Instagram and Facebook campaigns built to bring enquiries, with every lead tracked to the ad that brought it.
+- [Google Ads management](https://vinuify.tech/services/google-ads/): Search campaigns that catch people already looking for what you sell, with conversions tracked to the keyword.
+- [Tracking and reporting](https://vinuify.tech/services/#tracking): Meta Pixel and Conversions API, Google Ads conversions, GA4 and UTM naming.
+
+## Case studies
+- [This website, built for speed on a slow phone](https://vinuify.tech/work/midwatch-website/): How this site was built in Astro to load in about 2.3 seconds on a throttled phone connection, with animation, under 65 KB of JavaScript and no layout shift.
+
+## Notes
+- [5 Meta Ads mistakes I see every week](https://vinuify.tech/notes/meta-ads-mistakes/): Boosted posts, no Pixel, one ad judged too soon, low-intent forms and slow replies: five Meta Ads mistakes that waste budget, and the fix for each.
+- [Click-to-WhatsApp ads: when they win](https://vinuify.tech/notes/click-to-whatsapp-ads/): When click-to-WhatsApp ads beat lead forms for small businesses in India, how the 24-hour reply window affects cost, and how to measure bookings.
+- [Core Web Vitals, without the jargon](https://vinuify.tech/notes/core-web-vitals/): Core Web Vitals for business owners: what LCP, INP and CLS measure, Google’s thresholds, how to check your site, and the usual fix for each.
+- [Find your wasted Google Ads spend in 10 minutes](https://vinuify.tech/notes/wasted-google-ads-spend/): A 10-minute Google Ads check: search terms, negative keywords, location, networks, ad schedule and conversion tracking. Find where budget leaks.
+- [UTM links: know which post brought the lead](https://vinuify.tech/notes/utm-links/): A simple UTM naming system for Instagram, Meta ads, WhatsApp and email links, so GA4 shows which post or ad brought each lead.
+
+## Contact
+- [Free 15-minute review](https://vinuify.tech/free-review/)
+- [About](https://vinuify.tech/about/)
+- Instagram: https://www.instagram.com/mid.watch/
